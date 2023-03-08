@@ -1,6 +1,7 @@
  
-## **Gladky Konstantin**
+## **Gladky Konstantin** 
 -------------------------------------------------------------------------------------
+
 
 ## **My Contact Info:**
 
@@ -8,6 +9,7 @@
 + **E-mail:** gr1nch2@yandex.ru
 + **GitHub:** [Dexmor096](https://github.com/Dexmor096)
 + **Telegram** [Konstantin Gladky](Dexter096)
++ **Discord Chat** Gladkiy Konstantin (@Dexmor096)
 -------------------------------------------------------------------------------------
 ## **About Me**
 
