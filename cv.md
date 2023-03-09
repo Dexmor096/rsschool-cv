@@ -8,12 +8,14 @@
 + **Phone:** +7 (798) 793-03-63
 + **E-mail:** gr1nch2@yandex.ru
 + **GitHub:** [Dexmor096](https://github.com/Dexmor096)
-+ **Telegram** [Konstantin Gladky](Dexter096)
-+ **Discord Chat** Gladkiy Konstantin (@Dexmor096)
++ **Discord Chat:**  Gladkiy Konstantin (@Dexmor096)
+ 
 -------------------------------------------------------------------------------------
 ## **About Me**
 
- I am 33 years old. I'm working. in the field of sales. I have been studying programming since 2021. Studying has already become a habit, I like to improve my skills and develop.
+
+I am 33 years old. I'm working. in the field of sales. I have been studying programming since 2021. Studying has already become a habit, I like to improve my skills and develop.
+
 -------------------------------------------------------------------------------------
 ## My Skills 
 
