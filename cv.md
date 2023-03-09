@@ -26,6 +26,7 @@ I am 33 years old. I'm working. in the field of sales. I have been studying prog
 + Redux (Redux Toolkit)
 + Git (GitHub, GitLab)
 + TypeScript (in process)
+
 -------------------------------------------------------------------------------------
 ## Code Examples
 
@@ -54,6 +55,7 @@ const getClass = async (race) => {
   - [React](https://www.udemy.com/course/react-from-scratch/)
   - [Redux](https://www.udemy.com/course/redux-react/)
   - [TypeScript](https://www.udemy.com/course/modern_typescript/)
+  
 -------------------------------------------------------------------------------------
 ## Work experience
  
