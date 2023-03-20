@@ -14,7 +14,7 @@
 ## **About Me**
 
 
-I am 33 years old. I'm working. in the field of sales. I have been studying programming since 2021. Studying has already become a habit, I like to improve my skills and develop.
+I am 33 years old. I'm working in the field of sales. I have been studying programming since 2021. Studying has already become a habit, I like to improve my skills and develop.
 
 -------------------------------------------------------------------------------------
 ## My Skills 
