@@ -5,7 +5,7 @@
 
 ## **My Contact Info:**
 
-+ **Phone:** +7 (798) 793-03-63
++ **Phone:** +7 (798) 682-03-63
 + **E-mail:** gr1nch2@yandex.ru
 + **GitHub:** [Dexmor096](https://github.com/Dexmor096)
 + **Discord Chat:**  Gladkiy Konstantin (@Dexmor096)
